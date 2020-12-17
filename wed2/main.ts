@@ -1,0 +1,1 @@
+console.log(`hello Treasure ${2**9}`);
